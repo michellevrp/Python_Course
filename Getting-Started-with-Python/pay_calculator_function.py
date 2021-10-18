@@ -1,5 +1,6 @@
-
 #fourth exercise
+#This code asks the user for hours and rate for hour, calculate total pay by computepay function, and print it. 
+#If more than 40 hours, the rate is 1.5 the initial rate.
 hrs = input("Enter Hours:")
 rate = input("Enter Rate:")
 try:
