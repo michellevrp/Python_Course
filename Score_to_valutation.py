@@ -1,5 +1,5 @@
-
 #third exercise
+#This code prints out the valutation based on the numeric score.
 score = input("Enter Score: ")
 try:
     sc = float(score)
